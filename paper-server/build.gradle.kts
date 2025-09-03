@@ -207,7 +207,7 @@ tasks.jar {
             "Specification-Version" to project.version,
             "Specification-Vendor" to "Paper Team",
             "Brand-Id" to "papermc:paper",
-            "Brand-Name" to "Paper",
+            "Brand-Name" to "ToiletPaper",
             "Build-Number" to (build ?: ""),
             "Build-Time" to buildTime.toString(),
             "Git-Branch" to gitBranch,
